@@ -21,6 +21,7 @@ RoxygenNote: 7.2.2
 Depends: R (>= 2.10)
 Suggests: knitr, rmarkdown, devtools
 VignetteBuilder: knitr
+URL: https://sitepickr.github.io/sitepickR-website/, https://github.com/sitepickR/sitepickR-website
 NeedsCompilation: no
 Packaged: 2022-11-29 16:56:39 UTC; r1707404
 Author: Elena Badillo-Goicoechea [aut, cre],
